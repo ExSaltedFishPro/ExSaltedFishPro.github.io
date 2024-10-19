@@ -1,0 +1,16 @@
+{
+    "schemaVersion": 2,
+    "mediaType": "application/vnd.docker.distribution.manifest.v2+json",
+    "config": {
+        "digest": "sha256:f45796ea63c86b8f140a2d3b915137a3ba6cbb19405034f1a30fe49eae444610",
+        "mediaType": "application/vnd.docker.container.image.v1+json",
+        "size": 369
+    },
+    "layers": [
+        {
+            "digest": "sha256:914fdb590d696d87eccebff9113d1df206e321d6bc2bd9ad12270eb4d0f75a0d",
+            "mediaType": "application/vnd.ollama.image.template",
+            "size": 11480
+        }
+    ]
+}

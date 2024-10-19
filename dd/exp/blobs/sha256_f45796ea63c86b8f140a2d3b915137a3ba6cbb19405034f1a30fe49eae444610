@@ -1,0 +1,17 @@
+{
+    "model_format": "gguf",
+    "model_family": "exp",
+    "model_families": [
+        "exp"
+    ],
+    "model_type": "7.6B",
+    "file_type": "Q4_0",
+    "architecture": "amd64",
+    "os": "linux",
+    "rootfs": {
+        "type": "layers",
+        "diff_ids": [
+            "sha256:914fdb590d696d87eccebff9113d1df206e321d6bc2bd9ad12270eb4d0f75a0d"
+        ]
+    }
+}
